@@ -1,0 +1,2324 @@
+2023-01-19 11:28:10,430 - log_FacialStatus - DEBUG - 
+
+Facial Recognition Activated
+2023-01-19 11:28:23,915 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:28:25,011 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:28:25,839 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:28:26,974 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:28,100 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:29,226 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:30,355 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:30,356 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:28:31,482 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:32,608 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:33,734 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:34,862 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:34,864 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:28:35,991 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:37,117 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:38,243 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:39,369 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:39,370 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:28:40,499 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:41,629 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:42,757 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:43,883 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:43,884 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:28:45,010 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:46,137 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:47,266 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:48,394 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:48,395 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:28:49,522 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:50,648 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:51,775 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:52,904 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:52,905 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:28:54,032 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:55,158 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:56,285 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:57,411 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:57,412 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:28:58,539 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:28:59,666 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:00,792 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:01,917 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:01,919 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:03,045 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:04,173 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:05,299 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:06,426 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:06,427 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:07,553 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:08,680 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:09,808 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:10,935 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:10,936 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:12,063 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:12,891 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:29:14,020 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:15,149 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:16,278 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:17,405 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:17,406 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:18,531 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:19,659 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:20,785 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:21,912 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:21,913 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:23,040 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:24,166 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:25,299 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:26,429 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:26,430 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:27,557 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:28,684 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:29,810 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:30,937 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:30,941 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:31,770 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:29:32,896 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:34,023 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:35,151 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:36,278 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:36,282 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:37,408 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:38,535 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:39,661 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:40,788 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:40,789 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:41,916 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:43,048 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:44,175 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:45,303 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:45,303 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:46,430 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:47,557 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:48,682 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:49,809 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:49,810 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:50,937 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:52,062 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:53,190 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:54,018 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:29:55,151 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:56,278 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:57,405 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:58,531 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:29:58,532 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:29:59,660 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:00,787 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:01,914 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:03,041 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:03,042 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:30:04,169 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:05,295 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:06,424 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:07,551 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:07,551 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:30:08,678 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:09,804 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:10,931 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:12,058 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:12,059 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:30:13,185 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:14,312 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:15,438 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:16,566 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:16,566 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:30:17,692 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:18,819 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:19,946 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:21,073 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:21,073 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:30:22,200 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:23,329 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:30:24,158 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:30:24,986 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:30:25,812 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:30:26,640 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:30:27,469 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:30:28,296 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:30:29,124 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:30:29,951 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:30:30,808 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:30:31,660 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:30:32,513 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:30:33,366 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:30:34,219 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:30:35,058 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:30:36,183 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:37,310 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:38,435 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:39,560 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:39,561 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:30:40,687 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:41,813 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:42,939 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:44,067 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:44,068 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:30:45,194 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:46,319 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:47,446 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:48,572 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:48,573 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:30:49,698 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:50,825 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:51,951 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:53,078 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:53,079 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:30:54,205 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:55,331 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:56,456 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:57,582 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:57,583 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:30:58,712 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:30:59,839 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:00,965 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:02,091 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:02,091 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:31:03,220 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:04,346 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:05,475 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:06,602 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:06,602 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:31:07,729 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:08,855 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:09,981 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:11,109 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:11,109 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:31:12,237 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:13,363 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:14,496 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:15,622 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:15,623 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:31:16,749 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:17,875 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:18,702 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:31:19,828 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:20,656 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:31:21,490 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:31:22,318 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:31:23,146 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:31:24,270 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:25,099 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:31:26,224 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:27,350 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:28,178 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:31:29,011 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:31:30,137 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:31:31,266 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:32,392 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:33,518 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:34,643 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:35,769 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:36,896 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:38,022 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:39,153 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:40,286 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:41,114 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:41,946 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:42,775 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:43,602 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:44,728 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:45,856 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:46,982 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:48,108 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:49,235 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:50,362 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:51,488 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:52,614 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:53,741 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:54,570 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:55,404 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:56,528 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:57,362 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:58,189 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:59,017 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:31:59,844 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:32:00,672 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:32:01,797 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:02,624 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:03,750 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:04,878 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:06,005 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:07,131 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:07,131 - log_FacialStatus - DEBUG - Unknown face in proximity
+2023-01-19 11:32:08,259 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:09,385 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:10,513 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:11,639 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:11,640 - log_FacialStatus - DEBUG - Unknown face in proximity
+2023-01-19 11:32:12,766 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:13,893 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:15,020 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:16,147 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:16,148 - log_FacialStatus - DEBUG - Unknown face in proximity
+2023-01-19 11:32:17,275 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:18,401 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:19,527 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:20,653 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:20,654 - log_FacialStatus - DEBUG - Unknown face in proximity
+2023-01-19 11:32:21,780 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:22,608 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:23,739 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:24,567 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:25,693 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:26,521 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:27,354 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:28,184 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:29,310 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:30,436 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:31,565 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:32,395 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:33,222 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:34,050 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:34,877 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:35,705 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:36,532 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:37,366 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:38,492 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:39,621 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:40,746 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:41,873 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:41,873 - log_FacialStatus - DEBUG - Unknown face in proximity
+2023-01-19 11:32:42,703 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:43,829 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:44,954 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:46,083 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:32:46,917 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:47,747 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:32:48,575 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:32:49,402 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:32:50,229 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:32:51,056 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:32:51,884 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:32:52,711 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:32:53,539 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:32:54,664 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:32:55,790 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:32:56,915 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:32:58,042 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:32:58,043 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:32:59,176 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:00,303 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:01,430 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:02,556 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:02,556 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:33:03,682 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:04,807 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:05,932 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:07,057 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:07,058 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:33:08,185 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:09,314 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:10,440 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:11,565 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:11,566 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:33:12,724 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:13,877 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:15,006 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:15,834 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:16,959 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:17,789 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:18,920 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:20,046 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:20,874 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:21,711 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:22,546 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:23,677 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:24,510 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:25,347 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:26,480 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:27,311 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:28,139 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:28,967 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:29,795 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:30,622 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:31,450 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:32,278 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:33,106 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:33,933 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:33:35,058 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:36,218 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:37,347 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:38,474 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:38,475 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:33:39,603 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:40,729 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:41,856 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:42,985 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:42,986 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:33:44,112 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:45,239 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:46,367 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:47,493 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:47,494 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:33:48,623 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:49,752 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:50,879 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:52,005 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:52,005 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:33:53,131 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:54,265 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:55,397 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:56,524 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:56,525 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:33:57,652 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:58,779 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:33:59,907 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:00,738 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:01,865 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:02,992 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:04,118 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:05,246 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:05,247 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:34:06,374 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:07,501 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:08,628 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:09,756 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:09,756 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:34:10,888 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:12,015 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:13,143 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:14,271 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:14,272 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:34:15,402 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:16,530 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:17,658 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:18,785 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:18,786 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:34:19,913 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:21,040 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:22,167 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:23,295 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:23,295 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:34:24,422 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:34:25,252 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:26,081 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:34:26,910 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:34:27,740 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:28,568 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:29,700 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:30,836 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:31,665 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:32,494 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:33,324 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:34,153 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:35,279 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:36,408 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:37,536 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:38,366 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:39,195 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:40,025 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:40,859 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:41,688 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:42,517 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:43,348 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:44,176 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:45,006 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:45,835 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:46,664 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:47,791 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:48,621 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:49,450 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:50,280 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:51,109 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:52,237 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:53,366 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:54,494 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:55,622 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:55,623 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:34:56,752 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:57,880 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:34:58,709 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:34:59,539 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:00,370 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:01,200 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:02,030 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:02,859 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:03,689 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:04,519 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:05,349 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:06,178 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:07,008 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:07,837 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:08,668 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:09,497 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:10,624 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:11,455 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:12,582 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:35:13,709 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:35:14,539 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:15,367 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:16,195 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:17,027 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:17,861 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:18,692 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:19,526 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:20,355 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:21,184 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:22,014 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:22,843 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:23,672 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:23,673 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:35:24,502 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:25,331 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:26,160 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:26,990 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:27,819 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:28,649 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:29,483 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:30,312 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:31,141 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:31,971 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:32,801 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:33,630 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:33,631 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:35:34,461 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:35,291 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:36,120 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:37,252 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:35:38,082 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:38,912 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:40,039 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:40,872 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:41,702 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:42,532 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:43,361 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:44,191 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:45,021 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:45,850 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:46,682 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:47,511 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:35:48,341 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:49,171 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:50,001 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:50,832 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:51,662 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:52,491 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:53,322 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:54,151 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:54,982 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:55,811 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:56,643 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:57,769 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:58,602 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:35:59,432 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:00,262 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:01,091 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:01,923 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:02,750 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:03,581 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:04,409 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:05,238 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:06,065 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:06,896 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:07,722 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:08,550 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:09,379 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:10,207 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:11,034 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:11,865 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:12,693 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:13,822 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:14,948 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:15,777 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:16,903 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:17,732 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:18,859 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:19,687 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:20,515 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:21,342 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:22,170 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:22,998 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:23,826 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:24,654 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:25,482 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:26,310 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:27,138 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:27,965 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:28,793 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:29,621 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:30,449 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:31,276 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:32,104 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:32,931 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:33,760 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:34,588 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:35,416 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:36,244 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:37,072 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:37,899 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:38,728 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:39,562 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:40,390 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:41,218 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:42,046 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:42,874 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:43,702 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:44,530 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:45,358 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:46,185 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:47,311 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:36:48,140 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:48,968 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:49,795 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:50,622 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:52,281 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:36:53,109 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:53,937 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:54,766 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:55,593 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:56,422 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:57,249 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:58,078 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:58,906 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:36:59,734 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:00,562 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:01,391 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:02,219 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:03,047 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:03,880 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:04,708 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:05,536 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:06,364 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:07,191 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:08,019 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:08,847 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:09,975 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:37:10,805 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:11,634 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:12,469 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:13,297 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:14,125 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:14,954 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:15,782 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:16,611 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:17,440 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:18,275 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:19,104 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:19,931 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:20,760 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:21,588 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:22,418 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:23,245 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:24,074 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:24,902 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:25,732 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:26,560 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:27,390 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:28,219 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:29,047 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:29,881 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:30,710 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:31,540 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:32,369 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:33,199 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:34,028 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:34,858 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:35,688 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:36,518 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:37:37,347 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:38,177 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:39,007 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:39,836 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:40,666 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:41,497 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:42,327 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:43,157 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:43,988 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:44,818 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:45,648 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:46,478 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:47,307 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:48,137 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:48,968 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:49,798 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:50,628 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:51,460 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:52,291 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:53,121 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:53,950 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:54,781 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:55,613 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:56,442 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:57,272 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:58,102 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:58,932 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:37:59,762 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:00,593 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:01,423 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:02,253 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:03,082 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:03,912 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:04,741 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:05,572 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:06,402 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:07,232 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:08,062 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:08,892 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:09,722 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:10,552 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:11,382 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:12,212 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:13,042 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:13,872 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:14,702 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:15,532 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:16,362 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:17,192 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:18,021 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:18,852 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:19,681 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:20,512 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:21,343 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:22,173 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:23,002 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:23,833 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:24,664 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:25,493 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:26,323 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:27,152 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:27,982 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:28,813 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:29,643 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:30,474 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:31,303 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:32,133 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:32,963 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:33,793 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:34,623 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:35,452 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:36,282 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:37,112 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:37,942 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:38,772 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:39,603 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:40,433 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:41,263 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:42,093 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:42,923 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:43,754 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:44,584 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:45,415 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:46,245 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:47,075 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:47,906 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:49,035 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:50,164 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:50,994 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:51,825 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:52,656 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:53,486 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:38:54,316 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:38:55,146 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:38:55,976 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:38:56,806 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:57,636 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:58,466 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:38:59,304 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:00,432 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:39:01,562 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:39:02,689 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:39:03,518 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:04,349 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:05,182 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:06,011 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:06,841 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:07,671 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:08,501 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:09,331 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:10,160 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:10,989 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:11,820 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:12,652 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:12,652 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:39:13,486 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:14,314 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:15,142 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:15,970 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:16,800 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:17,628 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:18,457 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:19,285 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:20,112 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:20,939 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:21,766 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:22,594 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:22,595 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:39:23,422 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:24,250 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:25,079 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:25,906 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:26,734 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:27,561 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:28,389 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:29,217 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:30,045 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:30,873 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:31,706 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:32,540 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:32,540 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:39:33,373 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:34,206 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:35,040 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:35,874 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:36,706 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:37,539 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:38,372 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:39,205 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:40,059 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:40,915 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:41,745 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:42,574 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:42,575 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:39:43,406 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:44,235 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:45,065 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:45,896 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:46,726 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:47,555 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:48,384 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:49,213 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:50,069 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:50,909 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:51,742 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:52,576 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:52,576 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:39:53,410 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:54,245 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:55,078 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:55,906 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:56,734 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:57,562 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:58,391 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:39:59,218 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:00,046 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:00,875 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:01,703 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:02,531 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:02,531 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:40:03,361 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:04,189 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:05,017 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:05,846 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:06,674 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:07,503 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:08,331 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:09,159 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:09,987 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:10,816 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:11,644 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:12,473 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:12,473 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:40:13,301 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:14,130 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:14,959 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:15,789 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:16,916 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:40:17,746 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:18,574 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:19,403 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:20,232 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:21,060 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:21,888 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:22,716 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:23,547 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:24,375 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:25,204 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:26,032 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:26,859 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:26,860 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:40:27,688 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:28,518 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:29,346 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:30,174 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:31,002 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:31,830 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:32,657 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:33,485 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:34,313 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:35,141 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:35,969 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:36,796 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:36,797 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:40:37,625 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:38,452 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:39,280 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:40,108 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:40,936 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:41,764 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:42,591 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:43,420 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:44,248 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:45,085 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:45,913 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:46,741 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:46,741 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:40:47,570 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:48,397 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:49,226 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:50,055 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:50,883 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:51,711 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:52,539 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:53,373 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:54,200 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:55,029 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:55,860 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:56,688 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:56,689 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:40:57,516 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:58,344 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:40:59,171 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:00,000 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:00,830 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:01,661 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:02,489 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:03,317 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:04,145 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:04,975 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:05,811 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:06,639 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:06,640 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:41:07,468 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:08,296 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:09,124 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:09,955 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:10,784 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:11,612 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:12,441 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:13,269 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:14,098 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:14,927 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:15,756 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:16,591 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:16,592 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:41:17,420 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:18,249 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:19,077 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:19,905 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:20,733 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:21,561 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:22,389 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:23,217 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:24,046 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:24,875 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:25,703 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:26,532 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:26,532 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:41:27,360 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:28,189 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:29,017 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:29,849 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:30,678 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:31,507 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:32,335 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:33,164 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:33,998 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:34,829 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:35,660 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:36,489 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:36,489 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:41:37,320 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:38,150 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:38,980 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:39,810 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:40,641 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:41,470 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:42,298 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:43,127 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:43,956 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:44,785 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:45,614 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:46,442 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:46,444 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:41:47,274 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:48,102 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:48,930 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:49,759 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:50,588 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:51,416 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:52,251 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:53,087 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:53,917 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:54,747 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:55,578 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:56,409 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:56,409 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:41:57,239 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:58,070 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:58,901 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:41:59,731 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:00,563 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:01,393 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:02,227 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:03,057 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:03,887 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:04,720 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:05,550 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:06,380 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:06,381 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:42:07,210 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:08,042 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:08,871 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:09,701 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:10,533 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:11,362 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:12,192 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:13,022 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:13,852 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:14,682 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:15,513 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:16,344 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:16,345 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:42:17,174 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:18,005 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:18,835 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:19,665 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:20,496 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:21,329 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:22,159 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:22,989 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:23,819 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:24,649 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:25,481 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:26,311 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:26,312 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:42:27,141 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:27,974 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:28,804 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:29,634 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:30,465 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:31,295 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:32,126 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:32,956 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:33,788 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:34,618 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:35,450 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:36,280 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:36,281 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:42:37,110 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:37,941 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:38,771 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:39,601 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:42:40,433 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:42:41,263 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:42:42,094 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:42,924 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:43,754 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:44,584 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:45,416 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:46,245 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:47,075 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:47,906 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:48,737 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:49,567 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:50,398 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:51,228 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:51,229 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:42:52,059 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:52,890 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:53,720 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:54,551 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:55,383 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:56,213 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:57,045 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:57,877 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:58,708 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:42:59,538 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:00,371 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:01,202 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:01,203 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:43:02,032 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:02,863 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:03,693 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:04,523 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:05,354 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:06,183 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:07,013 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:07,843 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:08,673 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:09,505 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:10,336 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:11,167 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:11,168 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:43:11,998 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:12,828 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:13,659 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:14,489 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:15,321 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:16,151 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:16,981 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:17,811 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:18,641 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:19,471 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:20,303 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:21,133 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:21,134 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:43:21,964 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:22,794 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:23,624 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:24,454 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:25,286 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:26,116 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:26,957 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:27,798 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:28,627 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:29,456 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:30,286 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:31,114 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:31,116 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:43:31,945 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:32,779 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:33,613 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:34,447 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:35,299 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:36,147 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:36,982 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:37,811 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:38,639 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:39,468 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:40,298 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:41,127 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:41,128 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:43:41,957 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:42,789 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:43,617 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:44,446 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:45,275 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:46,103 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:46,931 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:47,762 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:48,592 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:49,421 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:50,252 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:51,083 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:51,084 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:43:51,915 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:52,745 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:53,575 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:54,405 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:55,236 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:56,067 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:56,897 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:57,727 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:58,558 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:43:59,388 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:00,219 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:01,050 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:01,051 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:44:01,883 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:02,713 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:03,542 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:04,372 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:05,204 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:06,036 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:06,866 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:07,699 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:08,530 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:09,360 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:10,191 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:11,022 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:11,024 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:44:11,855 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:12,685 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:13,515 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:14,345 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:15,176 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:16,007 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:16,837 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:17,667 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:18,498 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:19,328 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:20,159 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:20,990 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:20,991 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:44:21,822 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:22,653 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:23,484 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:24,315 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:25,145 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:25,981 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:26,812 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:27,642 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:28,473 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:29,303 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:30,133 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:30,963 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:30,964 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:44:31,795 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:32,627 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:33,457 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:34,288 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:35,119 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:35,949 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:36,781 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:37,611 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:38,443 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:39,273 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:40,106 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:41,236 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:44:42,366 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:44:43,203 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:44,033 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:44,862 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:45,694 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:46,821 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:44:47,951 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:44:48,782 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:49,612 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:50,444 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:51,274 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:52,103 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:52,934 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:53,765 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:54,895 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:44:55,729 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:56,559 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:57,389 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:58,220 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:59,050 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:44:59,880 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:00,713 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:01,544 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:02,374 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:03,204 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:04,034 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:04,863 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:04,865 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:45:05,696 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:06,526 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:07,356 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:08,186 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:09,016 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:09,846 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:10,975 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:45:11,806 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:12,636 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:13,467 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:14,296 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:15,127 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:15,958 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:16,790 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:17,620 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:18,450 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:19,280 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:20,110 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:20,941 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:20,942 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:45:21,771 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:22,603 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:23,433 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:24,263 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:25,094 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:25,925 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:26,755 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:27,585 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:28,415 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:29,245 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:30,076 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:30,907 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:30,908 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:45:31,737 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:32,567 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:33,397 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:34,228 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:35,060 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:35,890 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:36,724 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:37,557 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:38,390 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:39,222 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:40,052 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:40,882 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:40,883 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:45:41,714 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:42,543 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:43,375 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:44,205 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:45,036 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:45,866 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:46,696 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:47,526 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:48,356 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:49,186 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:50,016 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:50,847 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:50,847 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:45:51,677 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:52,508 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:53,339 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:54,168 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:54,999 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:55,830 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:56,661 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:57,490 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:45:58,619 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:45:59,748 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:46:00,580 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:01,410 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:02,242 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:03,072 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:03,902 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:04,732 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:05,563 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:06,393 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:07,223 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:08,053 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:08,882 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:09,713 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:09,713 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:46:10,545 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:11,376 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:12,206 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:13,039 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:13,870 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:14,700 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:15,531 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:16,361 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:17,192 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:18,022 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:18,852 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:19,682 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:19,683 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:46:20,514 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:21,643 - log_FacialStatus - DEBUG - ********** NAMES = ['Unknown']
+2023-01-19 11:46:22,477 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:23,308 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:24,137 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:24,968 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:25,799 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:26,632 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:27,462 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:28,292 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:29,122 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:29,952 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:30,783 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:31,613 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:31,614 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:46:32,444 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:33,275 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:34,105 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:34,935 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:35,766 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:36,597 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:37,426 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:38,256 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:39,087 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:39,916 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:40,748 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:41,579 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:41,580 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:46:42,410 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:43,240 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:44,070 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:44,900 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:45,730 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:46,561 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:47,391 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:48,222 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:49,052 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:49,882 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:50,713 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:51,543 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:51,544 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:46:52,374 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:53,204 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:54,035 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:54,865 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:55,697 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:56,528 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:57,358 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:46:58,488 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:46:59,318 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:00,449 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:01,581 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:02,411 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:03,242 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:04,071 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:04,902 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:05,733 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:06,564 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:07,395 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:08,225 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:09,056 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:09,886 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:10,718 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:11,548 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:12,379 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:13,209 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:14,039 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:14,870 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:15,701 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:16,532 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:17,362 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:18,192 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:19,021 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:19,849 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:20,679 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:21,507 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:22,335 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:23,163 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:23,991 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:24,818 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:25,648 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:26,476 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:27,304 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:28,131 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:28,960 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:29,788 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:30,618 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:31,445 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:32,274 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:33,102 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:33,931 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:34,759 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:35,589 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:36,417 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:37,245 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:38,074 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:38,902 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:39,730 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:40,560 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:41,388 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:42,217 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:47:43,045 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:47:44,170 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:45,298 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:46,423 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:47,549 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:47,550 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:47:48,675 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:49,800 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:50,927 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:52,052 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:52,053 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:47:53,178 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:54,303 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:55,430 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:56,556 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:56,557 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:47:57,682 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:58,808 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:47:59,933 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:01,060 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:01,061 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:48:02,188 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:03,312 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:04,437 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:05,562 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:05,563 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:48:06,691 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:07,816 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:08,941 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:10,067 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:10,068 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:48:11,193 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:12,319 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:13,444 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:14,570 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:14,570 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:48:15,696 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:16,821 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:17,946 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:19,070 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:19,072 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:48:20,198 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:21,323 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:22,448 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:23,572 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:23,573 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:48:24,698 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:48:25,528 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:26,356 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:27,184 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:28,013 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:28,842 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:29,670 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:30,499 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:31,328 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:32,156 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:32,984 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:33,815 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:34,642 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:35,470 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:36,298 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:37,125 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:37,953 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:38,784 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:39,612 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:40,441 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:41,268 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:42,096 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:42,925 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:43,753 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:44,581 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:45,410 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:46,239 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:47,066 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:47,894 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:48,722 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:49,551 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:50,379 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:51,208 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:52,036 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:52,864 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:53,691 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:54,520 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:48:55,349 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:56,177 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:57,005 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:57,834 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:58,661 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:48:59,489 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:00,317 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:01,146 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:01,974 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:02,802 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:03,630 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:04,458 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:05,286 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:06,115 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:06,942 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:07,770 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:08,598 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:09,426 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:10,255 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:11,083 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:11,911 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:12,741 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:13,569 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:14,397 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:15,225 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:16,053 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:16,881 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:17,710 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:18,537 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:19,365 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:20,194 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:21,022 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:21,850 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:22,678 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:23,506 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:24,334 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:25,162 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:25,999 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:26,826 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:27,657 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:28,485 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:29,313 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:30,141 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:30,970 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:31,799 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:32,627 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:33,455 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:34,284 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:35,112 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:35,940 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:36,768 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:37,596 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:38,424 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:39,253 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:40,082 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:40,910 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:41,739 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:42,568 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:43,398 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:44,227 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:45,055 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:45,884 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:46,715 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:47,543 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:48,371 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:49,199 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:50,027 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:50,856 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:51,684 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:52,512 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:53,340 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:54,169 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:54,997 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:55,826 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:56,654 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:49:57,483 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:58,609 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:49:59,733 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:00,858 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:01,986 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:03,109 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:04,234 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:05,359 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:06,487 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:07,611 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:08,735 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:09,564 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:10,393 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:11,221 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:12,346 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:13,470 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:14,596 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:15,721 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:16,846 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:17,674 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:18,502 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:19,331 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:20,159 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:20,988 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:21,816 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:22,645 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:23,473 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:24,302 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:25,130 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:25,959 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:26,786 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:27,615 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:28,443 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:29,271 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:30,098 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:30,927 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:31,755 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:32,584 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:33,411 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:34,239 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:35,067 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:35,896 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:36,724 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:37,552 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:38,379 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:39,208 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:40,036 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:40,865 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:41,693 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:42,520 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:43,348 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:44,176 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:45,004 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:45,834 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:46,662 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:47,491 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:48,318 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:49,147 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:49,976 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:50,805 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:50:51,633 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:52,462 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:53,290 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:54,119 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:54,946 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:55,776 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:56,604 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:57,432 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:58,259 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:59,088 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:50:59,916 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:00,744 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:01,574 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:02,405 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:03,233 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:04,061 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:04,890 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:05,718 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:06,547 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:07,375 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:08,204 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:09,032 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:09,860 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:10,688 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:11,516 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:12,344 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:13,173 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:14,001 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:14,829 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:15,657 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:16,486 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:17,314 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:18,143 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:18,971 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:19,799 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:20,628 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:21,456 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:22,284 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:23,112 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:23,939 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:24,768 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:25,596 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:26,425 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:27,252 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:28,082 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:28,909 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:29,738 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:30,567 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:31,396 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:32,225 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:33,053 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:33,882 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:34,710 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:35,539 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:36,367 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:37,195 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:38,023 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:38,851 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:39,679 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:40,508 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:41,339 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:42,167 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:42,995 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:43,823 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:44,651 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:45,480 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:46,308 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:47,137 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:47,964 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:48,793 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:49,621 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:50,451 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:51,278 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:52,107 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:52,935 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:53,763 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:54,590 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:55,419 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:51:56,247 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:57,076 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:57,904 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:58,733 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:51:59,561 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:00,390 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:01,219 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:02,048 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:02,876 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:03,705 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:04,534 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:05,363 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:06,192 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:07,020 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:07,849 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:08,680 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:09,508 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:10,336 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:11,173 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:12,006 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:12,838 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:13,669 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:14,500 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:15,328 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:16,157 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:16,984 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:17,810 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:17,810 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:52:18,637 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:19,463 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:20,289 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:21,114 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:21,940 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:22,766 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:23,591 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:24,418 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:25,249 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:26,104 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:26,948 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:27,793 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:28,634 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:29,474 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:30,314 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:31,152 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:31,989 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:52:32,826 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:33,663 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:34,501 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:35,330 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:36,158 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:36,987 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:37,815 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:38,644 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:39,472 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:40,299 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:41,128 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:41,956 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:42,784 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:43,612 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:44,441 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:45,270 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:52:46,395 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:47,520 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:48,645 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:49,771 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:49,772 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:52:50,897 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:52,023 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:53,147 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:54,273 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:54,273 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:52:55,399 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:56,523 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:57,648 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:58,773 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:59,897 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:52:59,898 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:53:01,026 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:02,151 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:03,275 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:04,400 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:04,400 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:53:05,529 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:06,654 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:07,778 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:08,903 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:08,904 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:53:10,028 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:11,153 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:12,278 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:13,403 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:14,527 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:14,528 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:53:15,653 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:16,778 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:17,902 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:19,027 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:20,152 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:20,153 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:53:21,284 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:22,407 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:23,530 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:24,653 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:24,654 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:53:25,778 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:26,901 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:28,028 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:28,855 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:53:29,688 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:53:30,518 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:53:31,640 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:32,766 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:33,892 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:35,015 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:36,138 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:36,138 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:53:37,262 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:38,385 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:39,509 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:40,632 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:41,755 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:41,756 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:53:42,880 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:44,002 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:45,125 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:46,249 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:47,372 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:47,373 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:53:48,497 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:49,620 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:50,742 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:51,866 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:52,989 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:52,990 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:53:54,113 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:55,238 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:56,362 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:57,485 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:58,607 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:53:58,607 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:53:59,732 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:00,855 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:01,980 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:03,103 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:04,226 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:04,227 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:54:05,373 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:06,518 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:07,364 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:54:08,502 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:09,627 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:10,754 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:11,880 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:11,881 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:54:13,009 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:14,134 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:15,259 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:16,387 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:16,387 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:54:17,513 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:18,639 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:19,763 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:20,889 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:20,891 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:54:22,019 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:23,144 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:24,269 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:25,393 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:25,394 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:54:26,522 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:27,647 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:28,771 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:29,897 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:29,898 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:54:31,028 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:32,151 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:33,274 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:34,397 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:35,523 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:35,523 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:54:36,695 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:37,839 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:38,982 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:40,125 - log_FacialStatus - DEBUG - ********** NAMES = ['Phil']
+2023-01-19 11:54:40,126 - log_FacialStatus - DEBUG - Known face: Phil in proximity.
+2023-01-19 11:54:40,966 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:54:41,802 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:54:42,639 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:54:43,476 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:44,314 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:45,151 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:45,990 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:46,827 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:47,664 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:48,500 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:49,337 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:50,177 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:51,016 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:54:51,855 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:54:52,688 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:53,518 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:54,348 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:55,181 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:56,011 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:56,840 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:57,668 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:58,497 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:54:59,327 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:00,156 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:00,992 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:01,821 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:02,649 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:03,480 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:04,307 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:05,136 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:05,971 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:06,806 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:07,643 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:08,478 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:09,314 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:10,148 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:10,994 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:11,832 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:12,666 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:13,500 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:14,335 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:15,170 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:16,004 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:16,840 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:17,669 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:18,495 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:19,323 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:20,149 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:55:20,983 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:21,814 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:22,942 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:24,064 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:25,190 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:26,313 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:27,437 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:27,438 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:55:28,564 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:29,691 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:30,819 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:31,944 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:31,944 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:55:33,070 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:34,197 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:35,325 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:36,452 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:36,453 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:55:37,578 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:38,702 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:39,828 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:40,659 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:41,783 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:42,611 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:43,734 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:44,858 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:45,689 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:46,814 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:47,939 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:48,766 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:49,890 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:51,014 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:51,842 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:52,669 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:53,497 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:55:54,621 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:55,749 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:56,876 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:58,004 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:55:58,005 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:55:59,131 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:00,255 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:01,084 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:02,208 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:03,333 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:04,460 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:05,585 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:05,586 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:56:06,713 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:07,837 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:08,961 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:09,792 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:10,622 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:11,747 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:12,878 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:14,003 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:15,128 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:15,128 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
+2023-01-19 11:56:15,960 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:16,788 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:17,616 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:18,444 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:19,271 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:20,100 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:20,928 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:21,757 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:22,879 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:24,004 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:24,832 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:25,956 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:27,081 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:28,206 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:29,329 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:30,157 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:30,985 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:31,814 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:32,639 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:33,469 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:34,300 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:35,134 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:35,967 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:37,095 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:37,921 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:38,753 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:39,579 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:40,405 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:41,236 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:42,067 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:42,895 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:43,723 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:44,551 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:45,379 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:46,206 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:47,034 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:47,035 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:56:47,865 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:48,692 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:49,815 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:50,942 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:56:51,770 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:52,600 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:53,428 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:54,255 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:55,083 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:55,911 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:56,739 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:57,570 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:58,397 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:56:59,224 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:00,051 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:00,885 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:00,887 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:57:01,716 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:02,543 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:03,371 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:04,198 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:05,026 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:05,854 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:06,683 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:07,510 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:08,338 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:09,165 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:09,993 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:10,821 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:10,821 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:57:11,651 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:12,478 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:13,306 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:14,134 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:14,961 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:15,788 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:16,616 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:17,444 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:18,271 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:19,101 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:19,928 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:20,756 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:20,757 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:57:21,585 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:22,412 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:23,239 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:24,067 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:24,897 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:25,725 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:26,552 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:27,379 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:28,207 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:29,035 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:29,862 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:30,693 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:30,694 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:57:31,523 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:32,350 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:33,178 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:34,005 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:34,832 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:35,660 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:36,487 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:37,315 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:38,142 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:38,971 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:39,798 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:40,626 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:40,626 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:57:41,454 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:42,286 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:43,113 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:43,945 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:44,774 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:45,601 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:46,428 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:47,255 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:48,121 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:48,948 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:49,776 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:50,603 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:50,604 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:57:51,445 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:52,274 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:53,103 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:53,931 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:54,759 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:55,587 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:56,415 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:57,242 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:58,070 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:58,900 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:57:59,726 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:00,552 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:00,552 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:58:01,382 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:02,208 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:03,034 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:03,860 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:04,711 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:05,553 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:06,378 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:07,204 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:08,032 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:08,858 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:09,684 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:10,509 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:11,335 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:12,160 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:12,986 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:13,812 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:14,637 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:15,463 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:16,289 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:17,115 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:17,940 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:18,766 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:19,591 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:20,417 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:21,243 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:22,069 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:22,894 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:23,719 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:24,545 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:25,371 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:26,197 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:27,023 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:27,850 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:28,675 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:29,500 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:30,326 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:31,152 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:31,978 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:32,804 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:33,630 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:34,456 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:35,281 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:36,107 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:36,933 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:37,758 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:38,584 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:39,410 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:40,235 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:41,067 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:41,893 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:42,719 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:43,544 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:44,369 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:45,195 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:46,022 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:46,847 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:47,673 - log_FacialStatus - DEBUG - Nothing in proximity
+2023-01-19 11:58:48,498 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:49,621 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:58:50,447 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:51,273 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:52,099 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:52,925 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:53,752 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:54,577 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:55,404 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:56,229 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:57,056 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:57,888 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:58,714 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:59,541 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:58:59,541 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:59:00,369 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:01,195 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:02,023 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:02,849 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:03,676 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:04,502 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:05,328 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:06,156 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:06,982 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:07,808 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:08,639 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:09,465 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:09,465 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:59:10,293 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:11,124 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:11,951 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:12,777 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:13,603 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:14,429 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:15,261 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:16,087 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:16,958 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:17,800 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:18,628 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:19,456 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:19,457 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:59:20,288 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:21,120 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:21,954 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:22,785 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:23,612 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:24,439 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:25,562 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:59:26,395 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:27,221 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:28,345 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:59:29,470 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:59:30,298 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:31,125 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:31,952 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:32,784 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:33,618 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:34,451 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:35,284 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:36,124 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:36,950 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:37,779 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:38,608 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:39,440 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:39,441 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:59:40,268 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:41,120 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:41,966 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:42,812 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:43,651 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:44,503 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:45,354 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:46,191 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:47,018 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:47,845 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:48,672 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:49,498 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:49,499 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 11:59:50,328 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:51,158 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:51,986 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:52,813 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:53,640 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:54,763 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:59:55,895 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:59:56,737 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:57,862 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 11:59:58,694 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 11:59:59,521 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:00,347 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:01,174 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:02,000 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:02,826 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:03,652 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:04,484 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:05,315 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:06,147 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:06,978 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:07,810 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:07,810 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 12:00:08,642 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:09,474 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:10,306 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:11,137 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:11,969 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:12,801 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:13,632 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:14,468 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:15,299 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:16,125 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:16,951 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:17,777 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:17,778 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 12:00:18,604 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:19,431 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:20,257 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:21,083 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:21,909 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:22,736 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:23,561 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:24,388 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:25,217 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:26,043 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:26,869 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:27,695 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:27,696 - log_FacialStatus - DEBUG - Object in front
+2023-01-19 12:00:28,530 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:29,357 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:30,183 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:31,009 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:31,835 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:32,661 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:33,487 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:34,313 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:35,435 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 12:00:36,263 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:37,089 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:37,915 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:38,742 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:39,568 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:40,395 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:41,227 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:42,358 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 12:00:43,492 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 12:00:44,625 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 12:00:45,460 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:46,292 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:47,124 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:47,957 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:48,790 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:49,623 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:50,458 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:51,593 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 12:00:52,426 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:53,259 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:54,092 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:54,928 - log_FacialStatus - DEBUG - ********** NAMES = []
+2023-01-19 12:00:56,067 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 12:00:57,219 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 12:00:58,359 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 12:00:59,515 - log_FacialStatus - DEBUG - ********** NAMES = ['Guillaume']
+2023-01-19 12:00:59,516 - log_FacialStatus - DEBUG - Known face: Guillaume in proximity.
