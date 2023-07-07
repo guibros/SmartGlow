@@ -1,0 +1,47 @@
+#:kivy 1.0.9
+
+<BackgroundColor@Widget>
+    background_color: 0, 0, 0, 0
+    canvas.before:
+        Color:
+            rgba: root.background_color
+        Rectangle:
+            size: self.size
+            pos: self.pos
+
+<MainLabel@Label+BackgroundColor>
+    background_color: 0, 0, 0, 0
+
+<SecondaryLabel@Label+BackgroundColor>
+    background_color: 0, 0, 0, 0
+
+
+<MyGridLayout>:
+    
+    GridLayout:
+        cols:1
+        size: root.width, root.height
+
+        MainLabel:
+            id: main
+            text_size: self.size
+            font_size: 55
+            size_hint_y: None
+            height: 90
+            halign: 'center'
+            valign: 'bottom'
+            
+        Image:
+            id: spinner
+            source: 'images/black.png'
+            keep_ratio: True
+            allow_stretch: True
+            size_hint: 2, 2
+            anim_delay: 0
+
+        SecondaryLabel:
+            id: secondary
+            text_size: self.size
+            font_size: 45
+            halign: 'center'
+            valign: 'top'

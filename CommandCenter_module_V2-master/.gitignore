@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+bin
+lib
+share
+audio.mp3
+audioTest.py
+pyvenv.cfg
+__pycache__
+.DS_Store
+CommandCenter_module_V2
+test.py
