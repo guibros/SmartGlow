@@ -44,10 +44,10 @@ User flow is programmed through voice-activated "scenes" with specific configura
 Python
 
 ### Libraries/Modules
-- Artificial Intelligence: Vader (sentiment analysis), Google Text To Speech (text-to-speech), SpeechRecognition (speech recognition), Fuzzywuzzy (intent classification), OpenCV (facial recognition)
-- IoT Communication: Paho.MQTT (MQTT protocol)
-- Database: PyMongo (MongoDB protocol)
-- Graphical User Interface: Kivy (window display module)
-- Sensors: RPi.GPIO (Raspberry Pi in/out board), Picamera (camera sensor for Raspberry Pi)
+- <u>Artificial Intelligence</u>: Vader (sentiment analysis), Google Text To Speech (text-to-speech), SpeechRecognition (speech recognition), Fuzzywuzzy (intent classification), OpenCV (facial recognition)
+- <u>IoT Communication</u>: Paho.MQTT (MQTT protocol)
+- <u>Database</u>: PyMongo (MongoDB protocol)
+- <u>Graphical User Interface</u>: Kivy (window display module)
+- <u>Sensors</u>: RPi.GPIO (Raspberry Pi in/out board), Picamera (camera sensor for Raspberry Pi)
 
 This project was conceptualized, researched, programmed, and built in 8 weeks by Guillaume Brossard and Philip Louis, 2022.
