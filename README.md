@@ -50,4 +50,4 @@ Python
 - <u>Graphical User Interface</u>: Kivy (window display module)
 - <u>Sensors</u>: RPi.GPIO (Raspberry Pi in/out board), Picamera (camera sensor for Raspberry Pi)
 
-This project was conceptualized, researched, programmed, and built in 8 weeks by Guillaume Brossard and Philip Louis, 2022.
+This project was conceptualized, researched, programmed, and built in december 2022/january 2023 by Guillaume Brossard and Philip Louis.
