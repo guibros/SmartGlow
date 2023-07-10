@@ -7,7 +7,7 @@ A one-way mirror with an integrated screen and facial recognition performing ope
 Three Raspberry Pis connected through MQTT:
 - One Raspberry Pi with a proximity sensor detecting activity in front of the device and activating/deactivating the system.
 - One Raspberry Pi managing the facial recognition system with a live feed camera and the trained models.
-- One Raspberry Pi connected to the behind-the-mirror monitor, a microphone, and a speaker, managing the GUI, listening to voice commands, responding audibly and visually, and fetching data from different databases.
+- One Raspberry Pi controlling the behind-the-mirror monitor, a microphone, and a speaker, managing the GUI, listening to voice commands, responding audibly and visually, and fetching data from different databases.
 
 User flow is programmed through voice-activated "scenes" with specific configurations for each scene.
 
